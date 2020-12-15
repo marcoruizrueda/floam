@@ -1,4 +1,4 @@
-# FLOAM 
+# FLOAM FOR ROS NOETIC UBUNTU 20.04
 ## Fast LOAM (Lidar Odometry And Mapping)
 
 This work is an optimized version of A-LOAM and LOAM with the computational cost reduced by up to 3 times.
